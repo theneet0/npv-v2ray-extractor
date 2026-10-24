@@ -2,7 +2,7 @@
 
 [![Launch Web App](https://img.shields.io/badge/Launch%20Web%20App-theneet0.github.io%2Fnpv--v2ray--extractor-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://theneet0.github.io/npv-v2ray-extractor/)
 
-Offline extractor and converter for NPV V2Ray export formats (`.npvt`, `.npvs` v5–v6).
+Extractor and converter for NPV V2Ray export formats (`.npvt`, `.npvs` v5).
 
 Runs client-side in the browser.
 
