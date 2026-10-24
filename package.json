@@ -1,0 +1,14 @@
+{
+  "name": "npv-v2ray-extractor",
+  "version": "2.5.0",
+  "description": "Offline extractor for NPV V2Ray export formats (NPVT, NPVS)",
+  "scripts": {
+    "build": "node build.cjs"
+  },
+  "dependencies": {
+    "esbuild": "^0.25.10",
+    "fflate": "^0.8.2",
+    "terser": "^5.51.2"
+  },
+  "license": "AGPL-3.0"
+}
